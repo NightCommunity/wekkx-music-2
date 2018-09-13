@@ -343,6 +343,6 @@ client.on('message', message => {
 });
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Wekkx || 2play`,"http://twitch.tv/S-F")
+client.user.setGame(`♛ Road To 3k 💎||2help`,"http://twitch.tv/S-F")
 });
 client.login(process.env.BOT_TOKEN);
